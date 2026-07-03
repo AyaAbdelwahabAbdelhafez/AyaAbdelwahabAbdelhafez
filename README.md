@@ -52,30 +52,15 @@ A machine-learning-based IDS for automotive cybersecurity, benchmarking **XGBoos
 </tr>
 </table>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AyaAbdelwahabAbdelhafez&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaAbdelwahabAbdelhafez&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaAbdelwahabAbdelhafez&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AyaAbdelwahabAbdelhafez&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyaAbdelwahabAbdelhafez&color=00C2FF&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyaAbdelwahabAbdelhafez&color=00C2FF&logo=github" />
+<img src="https://img.shields.io/github/stars/AyaAbdelwahabAbdelhafez?style=for-the-badge&color=00C2FF&label=Total%20Stars" />
 
 </div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/AyaAbdelwahabAbdelhafez/AyaAbdelwahabAbdelhafez/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-</div>
-
-> ⚠️ This one needs a one-time GitHub Action setup — see the note below the file.
 
 ## 💬 Random Dev Quote
 
